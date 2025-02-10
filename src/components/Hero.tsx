@@ -17,7 +17,7 @@ export default function Hero() {
         }`}
       >
         <h1 className="text-5xl md:text-6xl font-bold mb-6">
-          Hi, I'm <span className="text-cyan-400">John Doe</span>
+          Hi, I'm <span className="text-cyan-400">Nas Dev</span>
         </h1>
         <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto text-gray-300">
           Full Stack Developer specializing in React, Node.js, and MySQL
