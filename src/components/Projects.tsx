@@ -15,7 +15,7 @@ const projects = [
     title: "Task Management App",
     description: "A collaborative task management application with real-time updates, drag-and-drop organization, and team workspace features. Includes email notifications and task analytics.",
     image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80",
-    demo: "https://task-manager-demo.stackblitz.io",
+    demo: "https://bolt.new/~/sb1-ljbca2xu",
     tech: ["React", "Node.js", "MySQL", "Socket.io"],
     icon: Calendar
   },
