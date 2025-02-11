@@ -23,7 +23,7 @@ const projects = [
     title: "Weather Dashboard",
     description: "An interactive weather application providing real-time weather data, 7-day forecasts, and severe weather alerts. Features include location-based weather and interactive maps.",
     image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80",
-    demo: "https://weather-app-demo.stackblitz.io",
+    demo: "https://elaborate-yeot-ee3cbb.netlify.app",
     tech: ["React", "OpenWeather API", "Chart.js"],
     icon: Cloud
   },
@@ -31,7 +31,7 @@ const projects = [
     title: "Artisan Bakery Website",
     description: "A modern, responsive website for an artisan bakery featuring an online menu, order system, and customer testimonials. Includes integration with Instagram feed and newsletter signup.",
     image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80",
-    demo: "https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--d20a0a75.local-credentialless.webcontainer-api.io/",
+    demo: "https://delicate-lolly-acdbb4.netlify.app",
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     icon: Store
   }
@@ -89,7 +89,7 @@ export default function Projects() {
                     className="inline-flex items-center px-4 py-2 bg-cyan-500 text-white rounded hover:bg-cyan-600 transition-colors"
                   >
                     <ExternalLink className="h-4 w-4 mr-2" />
-                    View Demo
+                    Visit App
                   </a>
                 </div>
               </div>
