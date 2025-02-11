@@ -31,7 +31,7 @@ const projects = [
     title: "Artisan Bakery Website",
     description: "A modern, responsive website for an artisan bakery featuring an online menu, order system, and customer testimonials. Includes integration with Instagram feed and newsletter signup.",
     image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80",
-    demo: "https://bakery-demo.stackblitz.io",
+    demo: "https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--d20a0a75.local-credentialless.webcontainer-api.io/",
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     icon: Store
   }
